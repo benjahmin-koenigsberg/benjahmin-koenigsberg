@@ -28,7 +28,7 @@ My capstone is built in node with a javascript wrapper for Reddit's API called S
 
 The vegan reddit troll bot is an application to monitor incoming posts for specified keywords about animal consumption to auto respond with facts about non human animal sentience and personhood
 
-This site was initiated by @stevenrouk (http://stevenrouk.com) and would not have been possible without the help of my lead instructor Patrick (pg.mccullo.ug)
+This site was initiated by @stevenrouk (http://stevenrouk.com) and would not have been possible without the help of my lead instructor Patrick McCullough (https://pg.mccullo.ug/h/) 
 
 ## - 🔭 My next project ...
 
