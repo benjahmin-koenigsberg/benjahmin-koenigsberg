@@ -10,7 +10,7 @@
 
 ## - 💬 About me...
 
-I a former massage therapist turned software engineer! I am passionate about creating technology to elevate lives, minimize suffering and build community. Some technologies I enjoy working with include ReactJS, JavaScript, Node, Express, SCSS and CSS libraries.
+I am a former massage therapist turned software engineer! I am passionate about creating technology to elevate lives, minimize suffering and build community. Some technologies I enjoy working with include ReactJS, JavaScript, Node, Express, SCSS and Tailwind CSS.
 
 I love software engineering for all the oppurtunites it provides to meet and colorborate with a diverse group of intellingent individuals.
 
@@ -35,6 +35,8 @@ This site was initiated by @stevenrouk (http://stevenrouk.com) and would not hav
 The Vegan Cheat Sheet (www.vegancheatsheet.org) is an online spreadsheet, maintained by Vegan Hactivists (www.veganhactivists.org) with hundreds of vegan links organized by catagories  
 
 I am planning to use React, Next and a CSS library to create a user interface mobile app to make the vegan cheat sheet more accessable to visually stunning  
+
+I am also planning to take Three.js Journey course by Bruno Simon this month
 
 ## - ⚡ Hobbies ...
 
