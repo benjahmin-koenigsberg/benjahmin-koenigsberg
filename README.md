@@ -1,7 +1,7 @@
 ![bklogo](https://user-images.githubusercontent.com/116445988/232817067-218bda20-1445-485c-9ea7-2e0685217aaa.png)
 
 
-### Hi there 👋 I', Benjahmin!  Welcome to my pesonal README.md 
+### Hi there 👋 I'm, Benjahmin!  Welcome to my pesonal README.md 
 
 ## - 📫 How to reach me: ...
 
