@@ -1,4 +1,3 @@
-![bklogo](https://user-images.githubusercontent.com/116445988/232817067-218bda20-1445-485c-9ea7-2e0685217aaa.png)
 
 
 ### Hi there 👋 I'm, Benjahmin!  Welcome to my pesonal README.md 
@@ -14,7 +13,7 @@ I am a former massage therapist turned software engineer! I am passionate about 
 
 I love software engineering for all the oppurtunites it provides to meet and colorborate with a diverse group of intellingent individuals.
 
-## - 👯 I’m looking to join a team as a jr. developer ...
+## - 👯 I’m looking to join a team as a front end developer ...
 
 I would love to join a team  in a full time position at a mission driven company to contribute and grow. In addition to a rapidly expanding skill base, I bring empathy, communication and time management skills with a love for collaborative problem solving and writing efficient code! 
 
