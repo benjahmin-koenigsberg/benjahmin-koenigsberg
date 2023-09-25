@@ -10,16 +10,6 @@ I love software engineering for all the oppurtunites it provides to meet and col
 
 In addition to participtaing in various forms of animal rights vegan activism, I love preparing whole plant foods, riding my bike and hiking 
 
-
-## - 📫 How to reach me: ...
-
-🔗 www.benjahminkoenigsberg.com
-🔗 www.linkedin.com/in/benjamin-koenigsberg
-
-## - 👯 I’m looking to join a team as a front end developer ...
-
-I would love to join a team  in a full time position at a mission driven company to contribute and grow. In addition to a rapidly expanding skill base, I bring empathy, communication and time management skills with a love for collaborative problem solving and writing efficient code! 
-
 ## -📌 Pinned repo - 
 
 - Over 440 unique vegan links searchable and organized by category  
@@ -36,4 +26,7 @@ I am currently enrolled in an awesome Per Scholas full stack softwaring engineer
 - Web and design accessiblity
 - Web and Mixed reality animation  
 
+## - 📫 How to reach me: ...
 
+🔗 www.benjahminkoenigsberg.com
+🔗 www.linkedin.com/in/benjamin-koenigsberg
