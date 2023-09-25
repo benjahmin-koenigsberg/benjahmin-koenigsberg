@@ -4,7 +4,9 @@
 
 ## - 💬 About me...
 
-I am a former massage therapist turned software engineer! I am passionate about creating technology to elevate lives, minimize suffering and build community. Some technologies I enjoy working with include ReactJS, JavaScript, Node, Express, SCSS and Tailwind CSS.
+I am a vegan for the animals and former sports massage therapist turned software engineer! I am passionate about creating technology to improve lives.
+
+Some technologies I enjoy working with include ReactJS, JavaScript, Node, Express, SCSS and Tailwind CSS.
 
 I love software engineering for all the oppurtunites it provides to meet and colorborate with a diverse group of intellingent individuals.
 
